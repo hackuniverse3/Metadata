@@ -1,6 +1,21 @@
 {
   "name": "Infinite Jupiter Rewards",
   "symbol": "IJR",
-  "description": "Reward token for Infinite Jupiter platform",
-  "image": "https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22IJR%20Logo.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-03-17T07%3A44%3A33.478Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2Fee557adb9bea4c5f%2FIJR%2520Logo.png%3FExpires%3D1836891873%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3D1WMMvA9BX6eEyZoOkbQjTUDpjBWkQRsMb85A1eR2~GFdmNxa~11forcO6RMwf9AYjkK2oTwXmJifwzvhAAzTktb-U~K5K4TMm7i6JZu3CtIaXazI0b83Wr70jc6H7JFwiFBjt9dnvDO9-vGnZBKnIeZpIYo8O~5QwJpR3iI8auumb~o75ZShPunOA-YOzXn6Et5v8Y5pB3YUp96FO~1O5AEulwVCImGBu6klLbn7jv6JTsUowDnV4tJuDBv3u6uVRWolg9qaTVcUmo9qMQ83ba87T97VHmVb4Dz0qpX5KQe~3H992BRrW1sWG1mlPwioo~qPYzDpT1OQZ0N207L1Og__%22%7D"
+  "description": "Infinite Jupiter Rewards (IJR) - A Solana Token-2022 token with 5% transfer fee for Jupiter rewards distribution.",
+  "image": "https://raw.githubusercontent.com/devrose04/Metadata/main/logo.png",
+  "external_url": "https://jup.ag",
+  "attributes": [
+    {
+      "trait_type": "Token Standard",
+      "value": "Token-2022"
+    },
+    {
+      "trait_type": "Transfer Fee",
+      "value": "5%"
+    },
+    {
+      "trait_type": "Rewards Distribution",
+      "value": "5 minutes"
+    }
+  ]
 }
